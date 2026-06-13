@@ -42,7 +42,7 @@ php artisan cache:clear
 
 ### 2. Kloning Repositori
 
-Buka terminal (Git Bash / PowerShell) di direktori root server lokal Laragon Anda (`C:\laragon\www\`), kemudian jalankan perintah:
+Buka terminal (Git Bash / PowerShell) di direktori root server lokal XAMPP Anda (`C:\XAMPP\htdoc\`), kemudian jalankan perintah:
 
 ```bash
 git clone (Link github)
